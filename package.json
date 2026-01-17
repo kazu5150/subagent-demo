@@ -1,0 +1,15 @@
+{
+  "name": "subagent-demo",
+  "version": "1.0.0",
+  "description": "Claude Code サブエージェント学習用サンプルプロジェクト",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"テスト実行\" && exit 0"
+  },
+  "keywords": ["claude", "subagent", "demo"],
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
